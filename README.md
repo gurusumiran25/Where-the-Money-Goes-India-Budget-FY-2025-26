@@ -73,14 +73,15 @@ PDF Sources	Official Government of India Budget Documents
 📌 Page 2 – Expenditure Budget Overview
 ![Page 2] 
 
-![Page - 2 - Where the Money Goes  - Breakdown of India’s Expenditure Budget (2025–26) ](https://github.com/user-attachments/assets/99e58358-8075-4fee-93ff-49224ec4ea34)
+![Page - 2 - Where the Money Goes  - Breakdown of India’s Expenditure Budget (2025–26) ![Screenshot 2025-06-21 230555](https://github.com/user-attachments/assets/91d16ece-2561-49c7-bc97-73f3ea767125)
 
 
 
  📌 Page 3 – Top Ministries by Allocation
 ![Page 3] 
 
-![Page - 3 - Where the Money Goes – Total Budget Across Ministries (FY 2025–26)] [Screenshot 2025-06-21 230555]
+![Page - 3 - Where the Money Goes – Total Budget Across Ministries (FY 2025–26)] ![Page - 3 - Where the Money Goes – Total Budget Across Ministries (FY 2025–26)](https://github.com/user-attachments/assets/92f15b0d-4c2e-4ba4-a126-49661d9b4b46)
+
 
 
 
