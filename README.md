@@ -2,7 +2,9 @@
 
 An Interactive Tableau Dashboard analyzing the Indian Union Budget for 2025–26
 
-🔗 View the Live Interactive Dashboard →  https://public.tableau.com/views/WheretheMoneyGoesIndiasBudgetFY202526InteractiveDashboard/Page1WheretheMoneyGoesReceiptBudgetFY202526 
+🔗 View the Live Interactive Dashboard - 
+
+https://public.tableau.com/views/WheretheMoneyGoesIndiasBudgetFY202526InteractiveDashboard/Page1WheretheMoneyGoesReceiptBudgetFY202526 
 
 🧠 Problem Statement
 
@@ -15,9 +17,12 @@ This interactive Tableau dashboard enables exploration of:
 
 ✅ How is spending distributed across states and major programs?
 
+
 📈 Key Metrics and Visuals
 
+
 📌 Metric/Insight	📊 Visualization - 
+
 
 1️⃣ Total Receipts (Tax & Non-Tax)	Donut & Bar Charts
 
