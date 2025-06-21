@@ -1,9 +1,11 @@
 📊 Where the Money Goes: India’s Budget FY 2025–26
+
 An Interactive Tableau Dashboard analyzing the Indian Union Budget for 2025–26
 
 🔗 View the Live Interactive Dashboard →
 
 🧠 Problem Statement
+
 Where is India’s government allocating its financial resources in FY 2025–26?
 This interactive Tableau dashboard enables exploration of:
 
@@ -15,33 +17,46 @@ This interactive Tableau dashboard enables exploration of:
 
 📈 Key Metrics and Visuals
 
-📌 Metric/Insight	📊 Visualization
+📌 Metric/Insight	📊 Visualization - 
 
 1️⃣ Total Receipts (Tax & Non-Tax)	Donut & Bar Charts
+
 2️⃣ Expenditure Distribution	Stacked Bar, KPI Tiles
+
 3️⃣ Top 8 Ministries by Allocation	Horizontal Bar Chart
+
 4️⃣ Outcome Budget: Targets vs Outlay	Detailed Table with Highlights
+
 5️⃣ Top 10 Government Schemes	Ranked Bar Chart
+
 6️⃣ State-wise Fund Allocation	Interactive Map (Color Gradient)
+
 7️⃣ Major Schemes Performance	KPI Cards + Bar Chart
 
-✅ Tools & Technologies Used
-Tool	Purpose
+
+✅ Tools & Technologies Used - 
+
+Tool	Purpose - 
+
 Tableau Public	Building interactive dashboards
 MS Excel	Data cleaning and preparation from budget PDFs
 PDF Sources	Official Government of India Budget Documents
 (Optional) GitHub	Hosting README and related materials
 
-🔧 Steps Followed
+🔧 Steps Followed - 
+
 1️⃣ Data Cleaning → Extracted tables from official PDFs → Structured in Excel
+
 2️⃣ Import & Model → Brought data into Tableau → Created relationships
+
 3️⃣ Calculated Fields → Custom measures for % of Total, Targets vs Actuals
+
 4️⃣ Visualization → Designed 7 individual dashboards → Combined into story flow
+
 5️⃣ Polish → Consistent layout, fonts, tooltip customization, action highlights
+ 
 
-🖼️ Dashboard Snapshots
-
- 🖼️ Dashboard Snapshots
+ 🖼️ Dashboard Snapshots - 
 
  📌 Page 1 – Where the Money Goes: Receipt Budget Overview
 ![Page 1]  ![Page 1 – Where the Money Goes — Receipt Budget FY 2025–26](https://github.com/user-attachments/assets/869edcd1-c777-44e6-8783-7cf7a3934bf7)
@@ -72,7 +87,8 @@ PDF Sources	Official Government of India Budget Documents
 ![Page 7]  ![Page - 7 - Where the Money Goes – Top 5 States by Allocation (FY 2025–26)](https://github.com/user-attachments/assets/a85dca04-056e-4e0b-bab5-853678305da9)
 
 
-🧠 Insights
+🧠 Insights - 
+
 💰 Receipts Trend → Tax revenue contributes the largest portion of government income.
 
 📂 Major Expenditure → Social programs like Jal Jeevan Mission and PM Awas Yojana dominate spending.
@@ -81,17 +97,18 @@ PDF Sources	Official Government of India Budget Documents
 
 ⚠ Outcome Gaps → Certain schemes show gaps between targets and financial outlay.
 
-🌟 Summary
+🌟 Summary  - 
+
 This Tableau project provides full visibility into the Indian Union Budget FY 2025–26 in an interactive format.
 
 ✅ Ideal for:
+
 Analytics portfolios
 
 Presentations to hiring managers or stakeholders
 
 Demonstrating Tableau proficiency with real-world public sector data
 
-📬 Contact (Optional)
-📧 Email: your.email@example.com
 
-🔗 LinkedIn: Your LinkedIn Profile
+📧 Email: mgurusumiran25@gmail.com 
+
