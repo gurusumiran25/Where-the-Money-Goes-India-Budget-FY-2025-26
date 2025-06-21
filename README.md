@@ -1,66 +1,56 @@
 📊 Where the Money Goes: India’s Budget FY 2025–26
-
-Interactive Tableau Dashboard analyzing the Indian Union Budget for 2025–26.
+An Interactive Tableau Dashboard analyzing the Indian Union Budget for 2025–26
 
 🔗 View the Live Interactive Dashboard →
 
 🧠 Problem Statement
-
 Where is India’s government allocating its financial resources in FY 2025–26?
 This interactive Tableau dashboard enables exploration of:
 
-What are India’s key revenue sources?
+✅ What are India’s key revenue sources?
 
-Which ministries and schemes receive the largest allocations?
+✅ Which ministries and schemes receive the largest allocations?
 
-How is spending distributed across states and major programs?
+✅ How is spending distributed across states and major programs?
 
 📈 Key Metrics and Visuals
 
 📌 Metric/Insight	📊 Visualization
 
-1.Total Receipts (Tax & Non-Tax)	Donut & Bar Charts
+1️⃣ Total Receipts (Tax & Non-Tax)	Donut & Bar Charts
+2️⃣ Expenditure Distribution	Stacked Bar, KPI Tiles
+3️⃣ Top 8 Ministries by Allocation	Horizontal Bar Chart
+4️⃣ Outcome Budget: Targets vs Outlay	Detailed Table with Highlights
+5️⃣ Top 10 Government Schemes	Ranked Bar Chart
+6️⃣ State-wise Fund Allocation	Interactive Map (Color Gradient)
+7️⃣ Major Schemes Performance	KPI Cards + Bar Chart
 
-2.Expenditure Distribution	Stacked Bar, KPI Tiles
-
-3.Top 8 Ministries by Allocation	Horizontal Bar Chart
-
-4.Outcome Budget: Targets vs Outlay	Detailed Table with Highlights
-
-5.Top 10 Government Schemes	Ranked Bar Chart
-
-6.State-wise Fund Allocation	Interactive Map (Color Gradient)
-
-7.Major Schemes Performance	KPI Cards + Bar Chart
-
-
-✅ Tools & Technologies Used- 
-
-Tool	Purpose -
-Tableau Public Desktop	Building interactive dashboards
+✅ Tools & Technologies Used
+Tool	Purpose
+Tableau Public	Building interactive dashboards
 MS Excel	Data cleaning and preparation from budget PDFs
 PDF Sources	Official Government of India Budget Documents
-GitHub (optional)	Hosting README and related materials
-
+(Optional) GitHub	Hosting README and related materials
 
 🔧 Steps Followed
-
-1️⃣ Data Cleaning: Extracted tables from official PDFs → Structured in Excel
-2️⃣ Import & Model: Brought data into Tableau → Created relationships
-3️⃣ Calculated Fields: Custom measures for % of Total, Targets vs Actuals
-4️⃣ Visualization: Designed 7 individual dashboards → Combined into story flow
-5️⃣ Polish: Consistent layout, fonts, tooltip customization, action highlights
+1️⃣ Data Cleaning → Extracted tables from official PDFs → Structured in Excel
+2️⃣ Import & Model → Brought data into Tableau → Created relationships
+3️⃣ Calculated Fields → Custom measures for % of Total, Targets vs Actuals
+4️⃣ Visualization → Designed 7 individual dashboards → Combined into story flow
+5️⃣ Polish → Consistent layout, fonts, tooltip customization, action highlights
 
 🖼️ Dashboard Snapshots
 
  🖼️ Dashboard Snapshots
 
  📌 Page 1 – Where the Money Goes: Receipt Budget Overview
-![Page 1]  [Page 1 – Where the Money Goes — Receipt Budget FY 2025–26](https://github.com/user-attachments/assets/a387e9e3-5056-4f7f-af49-6f8ddf841177)
+![Page 1]  ![Page 1 – Where the Money Goes — Receipt Budget FY 2025–26](https://github.com/user-attachments/assets/869edcd1-c777-44e6-8783-7cf7a3934bf7)
+
 
 
 📌 Page 2 – Expenditure Budget Overview
-![Page 2]  [Screenshot 2025-06-21 230555](https://github.com/user-attachments/assets/88326736-0a98-4b13-88ab-d9c0a81c47f9)
+![Page 2]  ![Page - 2 - Where the Money Goes  - Breakdown of India’s Expenditure Budget (2025–26) ](https://github.com/user-attachments/assets/99e58358-8075-4fee-93ff-49224ec4ea34)
+
 
 
  📌 Page 3 – Top Ministries by Allocation
@@ -83,23 +73,25 @@ GitHub (optional)	Hosting README and related materials
 
 
 🧠 Insights
+💰 Receipts Trend → Tax revenue contributes the largest portion of government income.
 
-Receipts Trend: Tax revenue contributes the largest portion of government income.
+📂 Major Expenditure → Social programs like Jal Jeevan Mission and PM Awas Yojana dominate spending.
 
-Major Expenditure: Social programs like Jal Jeevan Mission and PM Awas Yojana dominate spending.
+🗺 Geographical Insight → Northern states like Uttar Pradesh receive the largest allocations.
 
-Geographical Insight: Northern states like Uttar Pradesh receive the largest allocations.
-
-Outcome Gaps: Certain schemes show gaps between target and financial outlay.
+⚠ Outcome Gaps → Certain schemes show gaps between targets and financial outlay.
 
 🌟 Summary
-
 This Tableau project provides full visibility into the Indian Union Budget FY 2025–26 in an interactive format.
 
 ✅ Ideal for:
-
 Analytics portfolios
 
-Presentation to hiring managers or stakeholders
+Presentations to hiring managers or stakeholders
 
-Demonstrating Tableau proficiency with real-world public sector data.
+Demonstrating Tableau proficiency with real-world public sector data
+
+📬 Contact (Optional)
+📧 Email: your.email@example.com
+
+🔗 LinkedIn: Your LinkedIn Profile
