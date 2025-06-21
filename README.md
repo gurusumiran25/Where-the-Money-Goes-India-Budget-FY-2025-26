@@ -80,7 +80,7 @@ PDF Sources	Official Government of India Budget Documents
  📌 Page 3 – Top Ministries by Allocation
 ![Page 3] 
 
-![Page - 3 - Where the Money Goes – Total Budget Across Ministries (FY 2025–26)][Screenshot 2025-06-21 230555](https://github.com/user-attachments/assets/4153ec04-0ea3-4c15-8016-1c571211aa92)
+![Page - 3 - Where the Money Goes – Total Budget Across Ministries (FY 2025–26)] [Screenshot 2025-06-21 230555]
 
 
 
