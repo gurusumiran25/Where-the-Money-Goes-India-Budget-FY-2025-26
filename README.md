@@ -21,16 +21,23 @@ How is spending distributed across states and major programs?
 📌 Metric/Insight	📊 Visualization
 
 1.Total Receipts (Tax & Non-Tax)	Donut & Bar Charts
+
 2.Expenditure Distribution	Stacked Bar, KPI Tiles
+
 3.Top 8 Ministries by Allocation	Horizontal Bar Chart
+
 4.Outcome Budget: Targets vs Outlay	Detailed Table with Highlights
+
 5.Top 10 Government Schemes	Ranked Bar Chart
+
 6.State-wise Fund Allocation	Interactive Map (Color Gradient)
+
 7.Major Schemes Performance	KPI Cards + Bar Chart
+
 
 ✅ Tools & Technologies Used- 
 
-Tool	Purpose
+Tool	Purpose -
 Tableau Public Desktop	Building interactive dashboards
 MS Excel	Data cleaning and preparation from budget PDFs
 PDF Sources	Official Government of India Budget Documents
