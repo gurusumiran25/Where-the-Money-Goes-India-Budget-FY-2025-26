@@ -53,7 +53,33 @@ GitHub (optional)	Hosting README and related materials
 5️⃣ Polish: Consistent layout, fonts, tooltip customization, action highlights
 
 🖼️ Dashboard Snapshots
-(Add screenshots or keep this placeholder if uploading to GitHub/PDF later)
+
+## 🖼️ Dashboard Snapshots
+
+### 📌 Page 1 – Where the Money Goes: Receipt Budget Overview
+![Page 1]  [Page 1 – Where the Money Goes — Receipt Budget FY 2025–26](https://github.com/user-attachments/assets/d89d7994-a075-4d63-88ef-65a516d7140e)
+
+
+### 📌 Page 2 – Expenditure Budget Overview
+![Page 2]  [Screenshot 2025-06-21 230555](https://github.com/user-attachments/assets/88326736-0a98-4b13-88ab-d9c0a81c47f9)
+
+
+### 📌 Page 3 – Top Ministries by Allocation
+![Page 3]  ![Page - 3 - Where the Money Goes – Total Budget Across Ministries (FY 2025–26)](https://github.com/user-attachments/assets/c84582e4-bce7-44d8-be21-f823ec3ce465)
+
+
+### 📌 Page 4 – Outcome Budget: Targets vs Financial Outlay
+![Page 4]  
+### 📌 Page 5 – Top 10 Government Schemes by Financial Outlay
+![Page 5]  ![Page - 5 - Where the Money Goes_ Top 10 Government Schemes (FY 2025–26)](https://github.com/user-attachments/assets/3c96bc38-4d8b-4346-95ae-fe2dbfba1a4a)
+
+### 📌 Page 6 – State-wise Allocation of Funds
+![Page 6]  ![Page - 6 – Where the Money Goes_ State-wise Allocation (FY 2025–26) (1)](https://github.com/user-attachments/assets/fc517eb3-6283-43e5-ab78-e7ebdf35d0ab)
+
+
+### 📌 Page 7 – Scheme Performance Overview
+![Page 7]  ![Page - 7 - Where the Money Goes – Top 5 States by Allocation (FY 2025–26)](https://github.com/user-attachments/assets/a85dca04-056e-4e0b-bab5-853678305da9)
+
 
 🧠 Insights
 
