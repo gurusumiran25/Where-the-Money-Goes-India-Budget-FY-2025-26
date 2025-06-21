@@ -21,7 +21,7 @@ This interactive Tableau dashboard enables exploration of:
 📈 Key Metrics and Visuals
 
 
-📌 Metric/Insight	📊 Visualization - 
+📌 Metric/Insight  	📊 Visualization - 
 
 
 1️⃣ Total Receipts (Tax & Non-Tax)	Donut & Bar Charts
