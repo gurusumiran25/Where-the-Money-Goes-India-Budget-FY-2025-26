@@ -2,7 +2,7 @@
 
 An Interactive Tableau Dashboard analyzing the Indian Union Budget for 2025–26
 
-🔗 View the Live Interactive Dashboard →
+🔗 View the Live Interactive Dashboard →  https://public.tableau.com/views/WheretheMoneyGoesIndiasBudgetFY202526InteractiveDashboard/Page1WheretheMoneyGoesReceiptBudgetFY202526 
 
 🧠 Problem Statement
 
@@ -109,6 +109,7 @@ Presentations to hiring managers or stakeholders
 
 Demonstrating Tableau proficiency with real-world public sector data
 
+📬 Contact - 
 
-📧 Email: mgurusumiran25@gmail.com 
+📧 Email: mgurusumiran25@gmail.com  
 
